@@ -34,11 +34,3 @@ Try out the DEMO here
 
 <img src="assets/screenshots/ss1.png"/>
 
-## 🤓 Author(s)
-
-**Olusegun Festus Babajide**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-## 🔖 LICENCE
-
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
