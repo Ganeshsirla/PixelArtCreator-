@@ -1,10 +1,8 @@
 # 🎨🎨Let's Draw
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-[![🛠️ Lint and Test](https://github.com/JideGuru/flutter_drawing_board/actions/workflows/lint_and_test.yml/badge.svg)](https://github.com/JideGuru/flutter_drawing_board/actions/workflows/lint_and_test.yml)
 
 A simple drawing app made with Flutter
 Try out the DEMO here
-[Link to Demo](https://letsdraw.jideguru.dev/)
+
 
 <img src="assets/screenshots/ss2.png" height="400"/>
 
